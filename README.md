@@ -2,6 +2,8 @@
 <img src="https://github.com/user-attachments/assets/568d0943-f1b1-4daa-8aae-0f670cf9e4ea" alt="image" width="400" height="400" />
 <h1>РУСИФИКАТОР ENA: DREAM BBQ</h1>
 Репозиторий русификатора для ENA: Dream BBQ от BARBEQUE TEAM
+
+  (форк содержит полностью обновленный перевод, сделанный по личной вкусовщине)
 </div>
 
 ## Содержание
